@@ -4,7 +4,7 @@
 <tr>
 <td width="65%" valign="top">
 
-Sou estudante do 6º semestre de **Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB)** e atuo como **desenvolvedor back-end**.  
+Sou estudante do 7º semestre de **Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB)** e atuo como **desenvolvedor back-end**.  
 
 Sou detalhista, colaborativo e comprometido com a **melhoria contínua**, sempre buscando aprender novas tecnologias e revisar conceitos fundamentais de programação e engenharia de software, aplicando **código limpo, arquitetura sólida e boas práticas de engenharia de software**.
 
